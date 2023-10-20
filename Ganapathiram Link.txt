@@ -1,0 +1,8 @@
+DASHBOARD LINK:
+https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FGana%2Bdashboard&action=view&mode=dashboard&subView=model0000018b412a863a_00000000
+
+STORY LINK:
+https://us3.ca.analytics.ibm.com/bi/?perspective=story&pathRef=.my_folders%2FGANA%2BSTORY&action=view&sceneId=model0000018b41f97f68_00000000&sceneTime=2000
+
+EXPLORATION LINK:
+https://us3.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2Fworkflowgraphgraphedu&subView=model0000018b3cf1b451_00000000
